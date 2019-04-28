@@ -1,0 +1,59 @@
+#Header .navbar
+{
+    background: #EE5A24;
+
+}
+
+
+#Header .navbar a {
+    color: white;
+
+}
+
+#Bk h6{
+    border-radius: 25px;
+    background: #EE5A24;
+    width: 50%;
+    color: white;
+}
+
+#Bk1 h6{
+    border-radius: 25px;
+    background: #EE5A24;
+    width: 25%;
+    color: white;
+}
+
+
+#SideBar p{
+    background: #EE5A24;
+    color: white;
+    border-radius: 25px;
+    padding: 08px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+
+#Social_Links p{
+    background: #EE5A24;
+    color: white;
+    border-radius: 25px;
+    padding: 08px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+
+}
+#footer a{
+    color: white;
+    text-decoration: none;
+}
+
+#Header ul a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+
+}
+
